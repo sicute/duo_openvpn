@@ -12,3 +12,4 @@
 * update file duoopnvpn.conf first 
 * run `./instalduovpn.sh` 
 
+*note: this base on ubuntu distro for other you can adjust as need
